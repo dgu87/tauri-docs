@@ -15,7 +15,7 @@
     "@docusaurus/preset-classic": "2.0.0-beta.17",
     "@docusaurus/theme-common": "2.0.0-beta.17",
     "@fontsource/roboto": "4.5.3",
-    "@fontsource/tauri": "4.5.3",
+    "@fontsource/tauri": "4.5.4",
     "@mdx-js/react": "1.6.22",
     "apexcharts": "3.33.2",
     "classnames": "2.3.1",
@@ -25,7 +25,7 @@
     "react-apexcharts": "1.4.0",
     "react-content-loader": "6.2.0",
     "react-dom": "17.0.2",
-    "react-markdown": "8.0.0",
+    "react-markdown": "8.0.1",
     "react-modal": "3.14.4",
     "react-reveal": "1.2.2",
     "react-tabs": "4.0.1"
